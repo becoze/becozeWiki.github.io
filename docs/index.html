@@ -13,8 +13,16 @@
   <script>
     window.$docsify = {
       loadSidebar: true,
-      '/.*/_sidebar.md': '/_sidebar.md',
+      // '/.*/_sidebar.md': '/_sidebar.md',
       loadNavbar: true,
+      nameLink: {
+        '/es/': '#/es/',
+        '/de-de/': '#/de-de/',
+        '/ru-ru/': '#/ru-ru/',
+        '/zh-cn/': '#/zh-cn/',
+        '/': '#/',
+      },
+
       subMaxLevel: 3,
       name: '',
       repo: ''
@@ -22,5 +30,6 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 </html>
