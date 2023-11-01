@@ -15,20 +15,34 @@
     window.$docsify = {
       alias: {
         // '/zh-cn/(.*)': 'https://raw.githubusercontent.com/user/repo/branch/filename',
-        '/.*/_sidebar.md': '/_sidebar.md',
+        // '/.*/_sidebar.md': '/_sidebar.md',
       },
       name:'becoze Wiki',
       nameLink:'/',
       repo: 'https://github.com/becoze/',
       auto2top: true,
       homepage: 'Home.md',
+      notFoundPage: {
+        '/': '_404.md',
+        '/zh-cn': 'zh-cn/_404.md',
+      },
       loadSidebar: true,
-      // '/.*/_sidebar.md': '/_sidebar.md',
       loadNavbar: true,
       subMaxLevel: 2,
       sidebarDisplayLevel: 1,
       search: {
-        placeholder: ' Type to search',
+        paths: 'auto',
+        maxAge: 1800, // 30 minuet
+        placeholder: {
+          '/zh-cn/': '搜索内容',
+          '/': 'Type to search',
+        },
+        noData: {
+          '/zh-cn/': '找不到结果',
+          '/': 'No Results',
+        },
+        depth: 4,
+        hideOtherSidebarContent: false,
       },
     }
   </script>
