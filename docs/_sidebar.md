@@ -1,6 +1,7 @@
 - [Home](/) 
 
-- [Java](/en/Java/home.md)
+[//]: # (- [Java]&#40;/en/Java/java.md&#41;)
+- Java
     - Java Basic
       - Computer Basic
         - [Escape Characters](/en/Java/1.Java-Basic/1.Computer-Basic/1.Escape-Characters.md)
@@ -12,18 +13,27 @@
         - [Variable Definition](/en/Java/1.Java-Basic/2.Variable/1.Variable-Definition.md)
         - ["+" Operator](/en/Java/1.Java-Basic/2.Variable/2.+operator.md)
         - [⭐Data Type](/en/Java/1.Java-Basic/2.Variable/3.Data-Type.md)
-        - [⭐Auto Conversion](/en/Java/1.Java-Basic/2.Variable/4.Auto-Conversion.md)
-        - [⭐Force Conversion](/en/Java/1.Java-Basic/2.Variable/5.Force-Conversion.md)
+        - [⭐Widening Casting](/en/Java/1.Java-Basic/2.Variable/4.Widening-Casting.md)
+        - [⭐Narrowing Casting](/en/Java/1.Java-Basic/2.Variable/5.Narrowing-Casting.md)
         - [⭐Convert String to Others](/en/Java/1.Java-Basic/2.Variable/6.String-Convert-other.md)
         - [⭐Comparing String](/en/Java/1.Java-Basic/2.Variable/7.Compare-String.md)
+      - Operator
+        - [Arithmetic Operator](/en/Java/1.Java-Basic/3.Operator/1.Arithmetic-Operator.md)
+        - [Relational Operator](/en/Java/1.Java-Basic/3.Operator/2.Relational-Operator.md)
+        - [Logic Operator](/en/Java/1.Java-Basic/3.Operator/3.Logic-Operator.md)
+        - [Assignment Operators](/en/Java/1.Java-Basic/3.Operator/4.Assignment-Operators.md)
+        - [Ternary Operator](/en/Java/1.Java-Basic/3.Operator/5.Ternary-Operator.md)
       - OOP
           - [Polymorphic 1](/en/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
           - [Polymorphic 2](/en/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
           - [Polymorphic 3](/en/Java/1.Java-Basic/7.OOP/Polymorphic-3.md)
         
 - [Dev. log - BI](/en/BI/home.md)
-  - aaa
+
+  - [content](/en/BI/content.md)
+
 
 - [Dev. log - User center ](/en/UserCenter/home.md)
-  - aaa
+
+  - [content](/en/UserCenter/content.md)
 
