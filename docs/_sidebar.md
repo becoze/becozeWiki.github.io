@@ -23,6 +23,11 @@
         - [Logic Operator](/en/Java/1.Java-Basic/3.Operator/3.Logic-Operator.md)
         - [Assignment Operators](/en/Java/1.Java-Basic/3.Operator/4.Assignment-Operators.md)
         - [Ternary Operator](/en/Java/1.Java-Basic/3.Operator/5.Ternary-Operator.md)
+        - [Operator Precedence](/en/Java/1.Java-Basic/3.Operator/6.Operator-Precedence.md)
+        - [Identifiers Naming](/en/Java/1.Java-Basic/3.Operator/7.Identifiers-naming.md)
+        - [Number Systems](/en/Java/1.Java-Basic/3.Operator/8.Number-Systems.md)
+        - [Bitwise Operators](/en/Java/1.Java-Basic/3.Operator/9.Bitwise-Operators.md)
+        - [Binary Operations](/en/Java/1.Java-Basic/3.Operator/10.Binary-Operations.md)
       - OOP
           - [Polymorphic 1](/en/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
           - [Polymorphic 2](/en/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
