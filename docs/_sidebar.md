@@ -31,6 +31,8 @@
       - Conditional Statement
         - [Flow Control](/en/Java/1.Java-Basic/4.Conditional-Statement/1.Flow-control.md)
         - [Branching](/en/Java/1.Java-Basic/4.Conditional-Statement/2.Branching.md)
+        - [Loop](/en/Java/1.Java-Basic/4.Conditional-Statement/3.Loop.md)
+        - [return](/en/Java/1.Java-Basic/4.Conditional-Statement/4.return.md)
       - OOP
           - [Polymorphic 1](/en/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
           - [Polymorphic 2](/en/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
