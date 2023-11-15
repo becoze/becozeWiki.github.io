@@ -33,6 +33,10 @@
         - [Branching](/en/Java/1.Java-Basic/4.Conditional-Statement/2.Branching.md)
         - [Loop](/en/Java/1.Java-Basic/4.Conditional-Statement/3.Loop.md)
         - [return](/en/Java/1.Java-Basic/4.Conditional-Statement/4.return.md)
+      - Array
+        - [Definition of Arrays](/en/Java/1.Java-Basic/5.Array/0.Array.md)
+        - [1.Initializing Arrays](/en/Java/1.Java-Basic/5.Array/1.Initializing-Arrays.md)
+        - [2.Array Assignment](/en/Java/1.Java-Basic/5.Array/2.Array-Assignment.md)
       - OOP
           - [Polymorphic 1](/en/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
           - [Polymorphic 2](/en/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
