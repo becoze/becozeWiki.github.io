@@ -37,6 +37,12 @@
         - [Definition of Arrays](/en/Java/1.Java-Basic/5.Array/0.Array.md)
         - [1.Initializing Arrays](/en/Java/1.Java-Basic/5.Array/1.Initializing-Arrays.md)
         - [2.Array Assignment](/en/Java/1.Java-Basic/5.Array/2.Array-Assignment.md)
+        - [3.Using Arrays](/en/Java/1.Java-Basic/5.Array/3.Using-Arrays.md)
+        - [Array Copy & Reverse](/en/Java/1.Java-Basic/5.Array/4.Array-Copy&Reverse.md)
+        - [Resizing Array Space](/en/Java/1.Java-Basic/5.Array/5.Resizing-Array-Space.md)
+        - [Bubble Sort](/en/Java/1.Java-Basic/5.Array/6.Bubble-Sort.md)
+        - [Search](/en/Java/1.Java-Basic/5.Array/7.Search.md)
+        - [Two Dimensional Array](/en/Java/1.Java-Basic/5.Array/8.TwoD-Array.md)
       - OOP
           - [Polymorphic 1](/en/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
           - [Polymorphic 2](/en/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
