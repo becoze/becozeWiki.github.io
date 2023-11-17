@@ -43,10 +43,10 @@
         - [Bubble Sort](/en/Java/1.Java-Basic/5.Array/6.Bubble-Sort.md)
         - [Search](/en/Java/1.Java-Basic/5.Array/7.Search.md)
         - [Two Dimensional Array](/en/Java/1.Java-Basic/5.Array/8.TwoD-Array.md)
-      - OOP
-          - [Polymorphic 1](/en/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
-          - [Polymorphic 2](/en/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
-          - [Polymorphic 3](/en/Java/1.Java-Basic/7.OOP/Polymorphic-3.md)
+      - OOP-Basic
+          - [Class & Object](/en/Java/1.Java-Basic/6.OOP-Basic/1.Class&Object.md)
+          - [Create Class Properties & Methods](/en/Java/1.Java-Basic/6.OOP-Basic/2.Create-Class-Properties&Methods.md)
+          - [Memory Allocation Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
         
 - [Dev. log - BI](/en/BI/home.md)
 
