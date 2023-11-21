@@ -48,6 +48,7 @@
           - [Create Class Properties & Methods](/en/Java/1.Java-Basic/6.OOP-Basic/2.Create-Class-Properties&Methods.md)
           - [Memory Allocation Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
           - [Field](/en/Java/1.Java-Basic/6.OOP-Basic/4.Field.md)
+          - [Method](/en/Java/1.Java-Basic/6.OOP-Basic/5.Method.md)
         
 - [Dev. log - BI](/en/BI/home.md)
 
