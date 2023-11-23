@@ -1,7 +1,6 @@
-- [Home](/) 
+- [<i class="fa-solid fa-house"></i> **Home**](/)
 
-[//]: # (- [Java]&#40;/en/Java/java.md&#41;)
-- Java
+- Java 
     - Java Basic
       - Computer Basic
         - [Escape Characters](/en/Java/1.Java-Basic/1.Computer-Basic/1.Escape-Characters.md)
