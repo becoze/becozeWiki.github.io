@@ -51,6 +51,7 @@
           - [Parameter-Passing-Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/6.Parameter-Passing-Mechanism.md)
           - [Recursion](/en/Java/1.Java-Basic/6.OOP-Basic/7.Recursion.md)
           - [Overload](/en/Java/1.Java-Basic/6.OOP-Basic/8.Overload.md)
+          - [Variable Args](/en/Java/1.Java-Basic/6.OOP-Basic/9.Variable-Args.md)
         
 - [Dev. log - BI](/en/BI/home.md)
 
