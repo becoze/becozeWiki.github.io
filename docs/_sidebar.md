@@ -48,7 +48,7 @@
           - [Memory Allocation Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
           - [Field](/en/Java/1.Java-Basic/6.OOP-Basic/4.Field.md)
           - [Method](/en/Java/1.Java-Basic/6.OOP-Basic/5.Method.md)
-          - [Parameter-Passing-Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/6.Parameter-Passing-Mechanism.md)
+          - [Arguments-Passing-Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/6.Arguments-Passing-Mechanism.md)
           - [Recursion](/en/Java/1.Java-Basic/6.OOP-Basic/7.Recursion.md)
           - [Overload](/en/Java/1.Java-Basic/6.OOP-Basic/8.Overload.md)
           - [Variable Args](/en/Java/1.Java-Basic/6.OOP-Basic/9.Variable-Args.md)
