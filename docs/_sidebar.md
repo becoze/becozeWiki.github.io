@@ -64,4 +64,4 @@
 
 - LeetCode - algorithm
   - [1.Tow Sum](/en/LeetCode/1.Tow-Sum.md)
-  - [1727.Largest Submatrix With Rearrangements](/en/LeetCode/Largest Submatrix With Rearrangements.md)
+  - [1727.Largest Submatrix With Rearrangements](/en/LeetCode/1727.Largest-Submatrix-With-Rearrangements.md)
