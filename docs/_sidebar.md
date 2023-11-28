@@ -52,6 +52,7 @@
           - [Recursion](/en/Java/1.Java-Basic/6.OOP-Basic/7.Recursion.md)
           - [Overload](/en/Java/1.Java-Basic/6.OOP-Basic/8.Overload.md)
           - [Variable Args](/en/Java/1.Java-Basic/6.OOP-Basic/9.Variable-Args.md)
+          - [Cloning Objects](/en/Java/1.Java-Basic/6.OOP-Basic/10.Cloning-Objects.md)
         
 - [Dev. log - BI](/en/BI/home.md)
 
