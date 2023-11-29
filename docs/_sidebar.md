@@ -53,6 +53,8 @@
           - [Overload](/en/Java/1.Java-Basic/6.OOP-Basic/8.Overload.md)
           - [Variable Args](/en/Java/1.Java-Basic/6.OOP-Basic/9.Variable-Args.md)
           - [Cloning Objects](/en/Java/1.Java-Basic/6.OOP-Basic/10.Cloning-Objects.md)
+          - [Scope](/en/Java/1.Java-Basic/6.OOP-Basic/11.Scope.md)
+          - [Constructor](/en/Java/1.Java-Basic/6.OOP-Basic/12.Constructor.md)
         
 - [Dev. log - BI](/en/BI/home.md)
 
