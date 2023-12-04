@@ -1,72 +1,76 @@
 - [<i class="fa-solid fa-house"></i> **Home**](/)
 
-- Java 
-    - Java Basic
-      - Computer Basic
-        - [Escape Characters](/en/Java/1.Java-Basic/1.Computer-Basic/1.Escape-Characters.md)
-        - [Java Code Style](/en/Java/1.Java-Basic/1.Computer-Basic/2.Java-Code-Style.md)
-        - [Identifiers & Naming Rules](/en/Java/1.Java-Basic/1.Computer-Basic/3.Identifiers&Naming-Rules.md)
-        - [Java Comments](/en/Java/1.Java-Basic/1.Computer-Basic/4.Java-Comments.md)
-        - [DOS & Path](/en/Java/1.Java-Basic/1.Computer-Basic/5.DOS&Path.md)
-      - Variable
-        - [Variable Definition](/en/Java/1.Java-Basic/2.Variable/1.Variable-Definition.md)
-        - ["+" Operator](/en/Java/1.Java-Basic/2.Variable/2.+operator.md)
-        - [⭐Data Type](/en/Java/1.Java-Basic/2.Variable/3.Data-Type.md)
-        - [⭐Widening Casting](/en/Java/1.Java-Basic/2.Variable/4.Widening-Casting.md)
-        - [⭐Narrowing Casting](/en/Java/1.Java-Basic/2.Variable/5.Narrowing-Casting.md)
-        - [Convert String to Others](/en/Java/1.Java-Basic/2.Variable/6.String-Convert-other.md)
-        - [Comparing String](/en/Java/1.Java-Basic/2.Variable/7.Compare-String.md)
-      - Operator
-        - [Arithmetic Operator](/en/Java/1.Java-Basic/3.Operator/1.Arithmetic-Operator.md)
-        - [Relational Operator](/en/Java/1.Java-Basic/3.Operator/2.Relational-Operator.md)
-        - [Logic Operator](/en/Java/1.Java-Basic/3.Operator/3.Logic-Operator.md)
-        - [Assignment Operators](/en/Java/1.Java-Basic/3.Operator/4.Assignment-Operators.md)
-        - [Ternary Operator](/en/Java/1.Java-Basic/3.Operator/5.Ternary-Operator.md)
-        - [Operator Precedence](/en/Java/1.Java-Basic/3.Operator/6.Operator-Precedence.md)
-        - [Identifiers Naming](/en/Java/1.Java-Basic/3.Operator/7.Identifiers-naming.md)
-        - [Number Systems](/en/Java/1.Java-Basic/3.Operator/8.Number-Systems.md)
-        - [Bitwise Operators](/en/Java/1.Java-Basic/3.Operator/9.Bitwise-Operators.md)
-        - [Binary Operations](/en/Java/1.Java-Basic/3.Operator/10.Binary-Operations.md)
-      - Conditional Statement
-        - [Flow Control](/en/Java/1.Java-Basic/4.Conditional-Statement/1.Flow-control.md)
-        - [Branching](/en/Java/1.Java-Basic/4.Conditional-Statement/2.Branching.md)
-        - [Loop](/en/Java/1.Java-Basic/4.Conditional-Statement/3.Loop.md)
-        - [return](/en/Java/1.Java-Basic/4.Conditional-Statement/4.return.md)
-      - Array
-        - [Definition of Arrays](/en/Java/1.Java-Basic/5.Array/0.Array.md)
-        - [1.Initializing Arrays](/en/Java/1.Java-Basic/5.Array/1.Initializing-Arrays.md)
-        - [2.Array Assignment](/en/Java/1.Java-Basic/5.Array/2.Array-Assignment.md)
-        - [3.Using Arrays](/en/Java/1.Java-Basic/5.Array/3.Using-Arrays.md)
-        - [Array Copy & Reverse](/en/Java/1.Java-Basic/5.Array/4.Array-Copy&Reverse.md)
-        - [Resizing Array Space](/en/Java/1.Java-Basic/5.Array/5.Resizing-Array-Space.md)
-        - [Bubble Sort](/en/Java/1.Java-Basic/5.Array/6.Bubble-Sort.md)
-        - [Search](/en/Java/1.Java-Basic/5.Array/7.Search.md)
-        - [Two Dimensional Array](/en/Java/1.Java-Basic/5.Array/8.TwoD-Array.md)
-      - OOP-Basic
-        - [Class & Object](/en/Java/1.Java-Basic/6.OOP-Basic/1.Class&Object.md)
-        - [Create Class Properties & Methods](/en/Java/1.Java-Basic/6.OOP-Basic/2.Create-Class-Properties&Methods.md)
-        - [Memory Allocation Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
-        - [Field](/en/Java/1.Java-Basic/6.OOP-Basic/4.Field.md)
-        - [Method](/en/Java/1.Java-Basic/6.OOP-Basic/5.Method.md)
-        - [Arguments-Passing-Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/6.Arguments-Passing-Mechanism.md)
-        - [Recursion](/en/Java/1.Java-Basic/6.OOP-Basic/7.Recursion.md)
-        - [Overload](/en/Java/1.Java-Basic/6.OOP-Basic/8.Overload.md)
-        - [Variable Args](/en/Java/1.Java-Basic/6.OOP-Basic/9.Variable-Args.md)
-        - [Cloning Objects](/en/Java/1.Java-Basic/6.OOP-Basic/10.Cloning-Objects.md)
-        - [Scope](/en/Java/1.Java-Basic/6.OOP-Basic/11.Scope.md)
-        - [Constructor](/en/Java/1.Java-Basic/6.OOP-Basic/12.Constructor.md)
-        - [this & this()](/en/Java/1.Java-Basic/6.OOP-Basic/13.this&this().md)
-        
-- [Dev. log - BI](/en/BI/home.md)
+- <i class="fa-brands fa-java"></i> Java
+  - Java Basic
+    - Computer Basic
+      - [<i class="fa-solid fa-gears"></i> Escape Characters](/en/Java/1.Java-Basic/1.Computer-Basic/1.Escape-Characters.md)
+      - [<i class="fa-solid fa-ruler"></i> Java Code Style](/en/Java/1.Java-Basic/1.Computer-Basic/2.Java-Code-Style.md)
+      - [⭐ Identifiers Naming](/en/Java/1.Java-Basic/1.Computer-Basic/3.Identifiers-naming.md)
+      - [<i class="fa-solid fa-message"></i> Java Comments](/en/Java/1.Java-Basic/1.Computer-Basic/4.Java-Comments.md)
+      - [<i class="fa-solid fa-folder-open"></i> DOS & Path](/en/Java/1.Java-Basic/1.Computer-Basic/5.DOS&Path.md)
+    - Variable
+      - [️<i class="fa-solid fa-tag"></i> Variable Definition](/en/Java/1.Java-Basic/2.Variable/1.Variable-Definition.md)
+      - [<i class="fa-solid fa-plus"></i> "+" Operator](/en/Java/1.Java-Basic/2.Variable/2.+operator.md)
+      - [⭐ Data Type](/en/Java/1.Java-Basic/2.Variable/3.Data-Type.md)
+      - [<i class="fa-solid fa-arrow-up-wide-short"></i>  Widening Casting](/en/Java/1.Java-Basic/2.Variable/4.Widening-Casting.md)
+      - [<i class="fa-solid fa-arrow-down-wide-short"></i>  Narrowing Casting](/en/Java/1.Java-Basic/2.Variable/5.Narrowing-Casting.md)
+      - [<i class="fa-solid fa-rotate-right"></i> Convert String to Others](/en/Java/1.Java-Basic/2.Variable/6.String-Convert-other.md)
+      - [<i class="fa-solid fa-scale-balanced"></i> Comparing String](/en/Java/1.Java-Basic/2.Variable/7.Compare-String.md)
+    - Operator
+      - [<i class="fa-solid fa-plus-minus"></i> Arithmetic Operator](/en/Java/1.Java-Basic/3.Operator/1.Arithmetic-Operator.md)
+      - [<i class="fa-solid fa-greater-than-equal"></i> Relational Operator](/en/Java/1.Java-Basic/3.Operator/2.Relational-Operator.md)
+      - [<i class="fa-solid fa-circle-half-stroke"></i> Logic Operator](/en/Java/1.Java-Basic/3.Operator/3.Logic-Operator.md)
+      - [<i class="fa-solid fa-equals"></i> Assignment Operators](/en/Java/1.Java-Basic/3.Operator/4.Assignment-Operators.md)
+      - [<i class="fa-solid fa-question"></i> Ternary Operator](/en/Java/1.Java-Basic/3.Operator/5.Ternary-Operator.md)
+      - [⭐ Operator Precedence](/en/Java/1.Java-Basic/3.Operator/6.Operator-Precedence.md)
+      - [<i class="fa-solid fa-0"></i> Number Systems & Conversion](/en/Java/1.Java-Basic/3.Operator/7.Number-Systems.md)
+      - [<i class="fa-solid fa-greater-than"></i> Bitwise Operators](/en/Java/1.Java-Basic/3.Operator/8.Bitwise-Operators.md)
+      - [<i class="fa-solid fa-right-left"></i> Binary Operations](/en/Java/1.Java-Basic/3.Operator/9.Binary-Operations.md)
+    - Conditional Statement
+      - [⭐ Flow Control](/en/Java/1.Java-Basic/4.Conditional-Statement/1.Flow-control.md)
+      - [<i class="fa-solid fa-code-branch"></i> Branching](/en/Java/1.Java-Basic/4.Conditional-Statement/2.Branching.md)
+      - [<i class="fa-solid fa-repeat"></i> Loop](/en/Java/1.Java-Basic/4.Conditional-Statement/3.Loop.md)
+      - [<i class="fa-solid fa-reply"></i> return](/en/Java/1.Java-Basic/4.Conditional-Statement/4.return.md)
+    - Array
+      - [<i class="fa-solid fa-xmarks-lines"></i> Definition of Arrays](/en/Java/1.Java-Basic/5.Array/0.Array.md)
+      - [⭐ 1.Initializing Arrays](/en/Java/1.Java-Basic/5.Array/1.Initializing-Arrays.md)
+      - [⭐ 2.Array Assignment](/en/Java/1.Java-Basic/5.Array/2.Array-Assignment.md)
+      - [⭐ 3.Using Arrays](/en/Java/1.Java-Basic/5.Array/3.Using-Arrays.md)
+      - [<i class="fa-solid fa-clone"></i> Array Copy & Reverse](/en/Java/1.Java-Basic/5.Array/4.Array-Copy&Reverse.md)
+      - [<i class="fa-solid fa-compress"></i> Resizing Array Space](/en/Java/1.Java-Basic/5.Array/5.Resizing-Array-Space.md)
+      - [<i class="fa-solid fa-arrow-down-wide-short"></i> Bubble Sort](/en/Java/1.Java-Basic/5.Array/6.Bubble-Sort.md)
+      - [<i class="fa-solid fa-magnifying-glass"></i> Search in Array](/en/Java/1.Java-Basic/5.Array/7.Search-in-Array.md)
+      - [<i class="fa-solid fa-braille"></i> Two Dimensional Array](/en/Java/1.Java-Basic/5.Array/8.TwoD-Array.md)
+    - OOP-Basic
+      - **--- Class ---**
+      - [<i class="fa-solid fa-layer-group"></i> Class & Object](/en/Java/1.Java-Basic/6.OOP-Basic/1.Class&Object.md)
+      - [<i class="fa-solid fa-diagram-next"></i> Memory Allocation Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/2.Memory-Allocation-Mechanism.md)
+      - [<i class="fa-solid fa-list-ul"></i> Field](/en/Java/1.Java-Basic/6.OOP-Basic/3.Field.md)
+      - **--- Method ---**
+      - [<i class="fa-solid fa-gear"></i> Method](/en/Java/1.Java-Basic/6.OOP-Basic/4.Method.md)
+      - [<i class="fa-solid fa-wrench"></i> Arguments-Passing-Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/5.Arguments-Passing-Mechanism.md)
+      - [⭐ Overload](/en/Java/1.Java-Basic/6.OOP-Basic/7.Overload.md)
+      - [<i class="fa-solid fa-ellipsis"></i> Variable Args](/en/Java/1.Java-Basic/6.OOP-Basic/8.Variable-Args.md)
+      - [<i class="fa-solid fa-arrows-spin"></i> Recursion](/en/Java/1.Java-Basic/6.OOP-Basic/6.Recursion.md)
+      - **--- Object ---**
+      - [<i class="fa-solid fa-tent-arrow-turn-left"></i> Cloning Objects](/en/Java/1.Java-Basic/6.OOP-Basic/9.Cloning-Objects.md)
+      - [⭐ Scope](/en/Java/1.Java-Basic/6.OOP-Basic/10.Scope.md)
+      - [<i class="fa-solid fa-hammer"></i> Constructor](/en/Java/1.Java-Basic/6.OOP-Basic/11.Constructor.md)
+      - [<i class="fa-solid fa-right-from-bracket"></i> this & this()](/en/Java/1.Java-Basic/6.OOP-Basic/12.this&this().md)
 
+- <i class="fa-solid fa-cubes"></i> Dev. log - BI
+  - [README](/en/BI/README.md)
   - [content](/en/BI/content.md)
 
 
-- [Dev. log - User center ](/en/UserCenter/home.md)
-
+- <i class="fa-solid fa-address-book"></i> Dev. log - User center
+  - [README](/en/UserCenter/README.md)
   - [content](/en/UserCenter/content.md)
 
-- LeetCode - algorithm
+- <i class="fa-solid fa-code"></i> LeetCode - algorithm
+  - [README](/en/LeetCode/README.md)
   - [1. Tow Sum](/en/LeetCode/1.Tow-Sum.md)
-  - [191. Number-of-1-Bits](/en/LeetCode/191.Number-of-1-Bits.md)
+  - [191. Number of 1 Bits](/en/LeetCode/191.Number-of-1-Bits.md)
+  - [231. Power of Tow](/en/LeetCode/231.Power-of-Tow.md)
+  - [326. Power of Three](/en/LeetCode/326.Power-of-Three.md)
   - [1727. Largest Submatrix With Rearrangements](/en/LeetCode/1727.Largest-Submatrix-With-Rearrangements.md)
