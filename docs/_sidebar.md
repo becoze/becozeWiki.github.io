@@ -24,7 +24,7 @@
       - [<i class="fa-solid fa-equals"></i> Assignment Operators](/en/Java/1.Java-Basic/3.Operator/4.Assignment-Operators.md)
       - [<i class="fa-solid fa-question"></i> Ternary Operator](/en/Java/1.Java-Basic/3.Operator/5.Ternary-Operator.md)
       - [⭐ Operator Precedence](/en/Java/1.Java-Basic/3.Operator/6.Operator-Precedence.md)
-      - [<i class="fa-solid fa-0"></i> Number Systems & Conversion](/en/Java/1.Java-Basic/3.Operator/7.Number-Systems.md)
+      - [<i class="fa-solid fa-0"></i> Number Systems & Conversion](/en/Java/1.Java-Basic/3.Operator/7.Number-Systems&Conversion.md)
       - [<i class="fa-solid fa-greater-than"></i> Bitwise Operators](/en/Java/1.Java-Basic/3.Operator/8.Bitwise-Operators.md)
       - [<i class="fa-solid fa-right-left"></i> Binary Operations](/en/Java/1.Java-Basic/3.Operator/9.Binary-Operations.md)
     - Conditional Statement
