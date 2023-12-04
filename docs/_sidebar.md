@@ -1,6 +1,7 @@
 - [<i class="fa-solid fa-house"></i> **Home**](/)
 
 - <i class="fa-brands fa-java"></i> Java
+  - [README](/en/Java/README.md)
   - Java Basic
     - Computer Basic
       - [<i class="fa-solid fa-gears"></i> Escape Characters](/en/Java/1.Java-Basic/1.Computer-Basic/1.Escape-Characters.md)
@@ -12,8 +13,8 @@
       - [️<i class="fa-solid fa-tag"></i> Variable Definition](/en/Java/1.Java-Basic/2.Variable/1.Variable-Definition.md)
       - [<i class="fa-solid fa-plus"></i> "+" Operator](/en/Java/1.Java-Basic/2.Variable/2.+operator.md)
       - [⭐ Data Type](/en/Java/1.Java-Basic/2.Variable/3.Data-Type.md)
-      - [<i class="fa-solid fa-arrow-up-wide-short"></i>  Widening Casting](/en/Java/1.Java-Basic/2.Variable/4.Widening-Casting.md)
-      - [<i class="fa-solid fa-arrow-down-wide-short"></i>  Narrowing Casting](/en/Java/1.Java-Basic/2.Variable/5.Narrowing-Casting.md)
+      - [<i class="fa-solid fa-arrow-up-wide-short"></i> Widening Casting](/en/Java/1.Java-Basic/2.Variable/4.Widening-Casting.md)
+      - [<i class="fa-solid fa-arrow-down-wide-short"></i> Narrowing Casting](/en/Java/1.Java-Basic/2.Variable/5.Narrowing-Casting.md)
       - [<i class="fa-solid fa-rotate-right"></i> Convert String to Others](/en/Java/1.Java-Basic/2.Variable/6.String-Convert-other.md)
       - [<i class="fa-solid fa-scale-balanced"></i> Comparing String](/en/Java/1.Java-Basic/2.Variable/7.Compare-String.md)
     - Operator
@@ -32,19 +33,18 @@
       - [<i class="fa-solid fa-repeat"></i> Loop](/en/Java/1.Java-Basic/4.Conditional-Statement/3.Loop.md)
       - [<i class="fa-solid fa-reply"></i> return](/en/Java/1.Java-Basic/4.Conditional-Statement/4.return.md)
     - Array
-      - [<i class="fa-solid fa-xmarks-lines"></i> Definition of Arrays](/en/Java/1.Java-Basic/5.Array/0.Array.md)
       - [⭐ 1.Initializing Arrays](/en/Java/1.Java-Basic/5.Array/1.Initializing-Arrays.md)
       - [⭐ 2.Array Assignment](/en/Java/1.Java-Basic/5.Array/2.Array-Assignment.md)
       - [⭐ 3.Using Arrays](/en/Java/1.Java-Basic/5.Array/3.Using-Arrays.md)
       - [<i class="fa-solid fa-clone"></i> Array Copy & Reverse](/en/Java/1.Java-Basic/5.Array/4.Array-Copy&Reverse.md)
       - [<i class="fa-solid fa-compress"></i> Resizing Array Space](/en/Java/1.Java-Basic/5.Array/5.Resizing-Array-Space.md)
       - [<i class="fa-solid fa-arrow-down-wide-short"></i> Bubble Sort](/en/Java/1.Java-Basic/5.Array/6.Bubble-Sort.md)
-      - [<i class="fa-solid fa-magnifying-glass"></i> Search in Array](/en/Java/1.Java-Basic/5.Array/7.Search-in-Array.md)
+      - [<i class="fa-solid fa-magnifying-glass"></i> Array Search](/en/Java/1.Java-Basic/5.Array/7.Array-Search.md)
       - [<i class="fa-solid fa-braille"></i> Two Dimensional Array](/en/Java/1.Java-Basic/5.Array/8.TwoD-Array.md)
     - OOP-Basic
       - **--- Class ---**
       - [<i class="fa-solid fa-layer-group"></i> Class & Object](/en/Java/1.Java-Basic/6.OOP-Basic/1.Class&Object.md)
-      - [<i class="fa-solid fa-diagram-next"></i> Memory Allocation Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/2.Memory-Allocation-Mechanism.md)
+      - [<i class="fa-solid fa-diagram-next"></i> Basic usage & Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/2.Basic-usage-&-Mechanism.md)
       - [<i class="fa-solid fa-list-ul"></i> Field](/en/Java/1.Java-Basic/6.OOP-Basic/3.Field.md)
       - **--- Method ---**
       - [<i class="fa-solid fa-gear"></i> Method](/en/Java/1.Java-Basic/6.OOP-Basic/4.Method.md)
