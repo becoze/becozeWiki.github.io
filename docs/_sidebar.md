@@ -57,6 +57,10 @@
       - [⭐ Scope](/en/Java/1.Java-Basic/6.OOP-Basic/10.Scope.md)
       - [<i class="fa-solid fa-hammer"></i> Constructor](/en/Java/1.Java-Basic/6.OOP-Basic/11.Constructor.md)
       - [<i class="fa-solid fa-right-from-bracket"></i> this & this()](/en/Java/1.Java-Basic/6.OOP-Basic/12.this&this().md)
+    - OOP-Intermediate
+      - [IDEA shortcut](/en/Java/1.Java-Basic/7.OOP-Intermediate/1.IDEA-shortcut.md)
+      - [Package](/en/Java/1.Java-Basic/7.OOP-Intermediate/2.Package.md)
+      - [Access modifier](/en/Java/1.Java-Basic/7.OOP-Intermediate/3.Access-modifier.md)
 
 - <i class="fa-solid fa-cubes"></i> Dev. log - BI
   - [README](/en/BI/README.md)
