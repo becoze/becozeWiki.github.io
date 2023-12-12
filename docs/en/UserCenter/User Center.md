@@ -64,7 +64,7 @@
 
 ### 设计登录功能
 
-### 实现业务逻辑层 - 编写 UserService 
+### 实现业务逻辑层 - 构建 UserService 
 
 - 1. UserService 初始化
 - 2. 定义登录方法
@@ -74,12 +74,12 @@
 - 6. 记录用户的登录状态（session）
 - 7. 返回脱敏后的用户信息
 
-### 封装控制层请求成接口 - 编写 userController 
+### 封装控制层请求成接口 - 构建 UserController 
 
 - 1. UserController 初始化
-- 2. 接收 注册 请求参数 - 编写 request.UserRgisterRequest`
+- 2. 接收 注册 请求参数 - 编写 `request.UserRgisterRequest`
 - 3. 编写注册请求
-- 4. 接收 登录 请求参数 - 编写 request.UserLoginRequest`
+- 4. 接收 登录 请求参数 - 编写 `request.UserLoginRequest`
 - 5. 编写登录请求
 - （6. Error - 缺失接口地址）
 
