@@ -59,11 +59,11 @@
       - [<i class="fa-solid fa-right-from-bracket"></i> this & this()](/en/Java/1.Java-Basic/6.OOP-Basic/12.this&this().md)
     - OOP-Intermediate
       - [<i class="fa-solid fa-rocket"></i> IDEA shortcut](/en/Java/1.Java-Basic/7.OOP-Intermediate/1.IDEA-shortcut.md)
-      - [Breakpoint](/en/Java/1.Java-Basic/7.OOP-Intermediate/2.Breakpoint.md)
+      - [<i class="fa-solid fa-bug"></i> Breakpoint Bugging](/en/Java/1.Java-Basic/7.OOP-Intermediate/2.Breakpoint.md)
       - [<i class="fa-solid fa-box"></i> Package](/en/Java/1.Java-Basic/7.OOP-Intermediate/3.Package.md)
       - [<i class="fa-solid fa-lock"></i> Access modifier](/en/Java/1.Java-Basic/7.OOP-Intermediate/4.Access-modifier.md)
-      - [Encapsulation](/en/Java/1.Java-Basic/7.OOP-Intermediate/5.Encapsulation.md)
-      - [Extends(1.Basic)](/en/Java/1.Java-Basic/7.OOP-Intermediate/6.Extends(1.Basic).md)
+      - [<i class="fa-solid fa-cube"></i> Encapsulation](/en/Java/1.Java-Basic/7.OOP-Intermediate/5.Encapsulation.md)
+      - [<i class="fa-solid fa-code-branch"></i> Extends(1.Basic)](/en/Java/1.Java-Basic/7.OOP-Intermediate/6.Extends(1.Basic).md)
 
 - <i class="fa-solid fa-cubes"></i> Dev. log - BI
   - [README](/en/BI/README.md)
