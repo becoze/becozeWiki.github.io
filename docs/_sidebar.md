@@ -63,9 +63,9 @@
       - [<i class="fa-solid fa-box"></i> Package](/en/Java/1.Java-Basic/7.OOP-Intermediate/3.Package.md)
       - [<i class="fa-solid fa-lock"></i> Access modifier](/en/Java/1.Java-Basic/7.OOP-Intermediate/4.Access-modifier.md)
       - [<i class="fa-solid fa-cube"></i> Encapsulation](/en/Java/1.Java-Basic/7.OOP-Intermediate/5.Encapsulation.md)
-      - [<i class="fa-solid fa-code-branch"></i> Extends(1.Basic)](/en/Java/1.Java-Basic/7.OOP-Intermediate/6.Extends(1.Basic).md)
-      - [Extends(2.Detail)](/en/Java/1.Java-Basic/7.OOP-Intermediate/7.Extends(2.Detail).md)
-      - [Extends(3.Order)](/en/Java/1.Java-Basic/7.OOP-Intermediate/8.Extends(3.Order).md)
+      - [⭐ Extends(1.Basic)](/en/Java/1.Java-Basic/7.OOP-Intermediate/6.Extends(1.Basic).md)
+      - [<i class="fa-solid fa-code-branch"></i> Extends(2.Detail)](/en/Java/1.Java-Basic/7.OOP-Intermediate/7.Extends(2.Detail).md)
+      - [<i class="fa-solid fa-code-branch"></i> Extends(3.Order)](/en/Java/1.Java-Basic/7.OOP-Intermediate/8.Extends(3.Order).md)
 
 - <i class="fa-solid fa-cubes"></i> Dev. log - BI
   - [README](/en/BI/README.md)
