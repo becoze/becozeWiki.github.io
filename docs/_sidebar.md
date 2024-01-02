@@ -88,4 +88,5 @@
   - [1582+2482. ⭐(Abstracting a 2D matrix into 1D)](/en/LeetCode/1582+2482.md)
   - [1716. ⭐Calculate Money in Leetcode Bank](/en/LeetCode/1716.Calculate-Money-in-Leetcode-Bank.md)
   - [1727. ⭐Largest Submatrix With Rearrangements](/en/LeetCode/1727.Largest-Submatrix-With-Rearrangements.md)
+  - [1897. Redistribute Characters to Make All Strings Equal](/en/LeetCode/1897.Redistribute-Characters-to-Make-All-Strings-Equal.md)
   - [2264. Largest 3 Same Digit Number in String](/en/LeetCode/2264.Largest3Same-Digit-Number-in-String.md)
