@@ -67,6 +67,7 @@
       - [<i class="fa-solid fa-code-branch"></i> Extends(2.Detail)](/en/Java/1.Java-Basic/7.OOP-Intermediate/7.Extends(2.Detail).md)
       - [<i class="fa-solid fa-code-branch"></i> Extends(3.Order)](/en/Java/1.Java-Basic/7.OOP-Intermediate/8.Extends(3.Order).md)
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
+      - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
 
 - <i class="fa-solid fa-cubes"></i> Dev. log - BI
   - [README](/en/BI/README.md)
