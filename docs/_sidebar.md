@@ -88,6 +88,7 @@
   - [938. Range Sum of BST](/en/LeetCode/938.Range-Sum-of-BST.md)
   - [1266. ⭐Minimum Time Visiting All Points](/en/LeetCode/1266.Minimum-Time-Visiting-All-Points.md)
   - [1582+2482. ⭐(Abstracting a 2D matrix into 1D)](/en/LeetCode/1582+2482.md)
+  - [1704. Determine If String Halves Are Alike](/en/LeetCode/1704.Determine-If-String-Halves-Are-Alike.md)
   - [1716. ⭐Calculate Money in Leetcode Bank](/en/LeetCode/1716.Calculate-Money-in-Leetcode-Bank.md)
   - [1727. ⭐Largest Submatrix With Rearrangements](/en/LeetCode/1727.Largest-Submatrix-With-Rearrangements.md)
   - [1897. Redistribute Characters to Make All Strings Equal](/en/LeetCode/1897.Redistribute-Characters-to-Make-All-Strings-Equal.md)
