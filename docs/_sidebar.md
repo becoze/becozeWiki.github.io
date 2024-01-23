@@ -1,7 +1,6 @@
 - [<i class="fa-solid fa-house"></i> **Home**](/)
 
-- <i class="fa-brands fa-java"></i> Java
-  - [README](/en/Java/README.md)
+- [<i class="fa-brands fa-java"></i> Java](/en/Java/README.md)
   - Java Basic
     - Computer Basic
       - [<i class="fa-solid fa-gears"></i> Escape Characters](/en/Java/1.Java-Basic/1.Computer-Basic/1.Escape-Characters.md)
@@ -69,13 +68,11 @@
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
 
-- <i class="fa-solid fa-cubes"></i> Dev. log - BI
-  - [README](/en/BI/README.md)
+- [<i class="fa-solid fa-cubes"></i> Dev. log - BI ⭐](/en/BI/README.md)
   - [content](/en/BI/content.md)
 
 
-- <i class="fa-solid fa-address-book"></i> Dev. log - User center
-  - [README](/en/UserCenter/README.md)
+- [<i class="fa-solid fa-address-book"></i> Dev. log - User center ⭐](/en/UserCenter/README.md)
   - [content](/en/UserCenter/content.md)
 
 - <i class="fa-solid fa-code"></i> LeetCode - algorithm
