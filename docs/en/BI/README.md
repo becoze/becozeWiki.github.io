@@ -1,3 +1,6 @@
 # BI
+> Enlarge image if needed
+![Guide](image/guide.png)
 
-aaaaaaaaaaa
+
+![ThreadPool Mechanism](image/ThreadPoolMechanism.png)
