@@ -69,7 +69,8 @@
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
 
 - [<i class="fa-solid fa-cubes"></i> Dev. log - BI ⭐](/en/BI/README.md)
-  - [content](/en/BI/content.md)
+  - [1.](/en/BI/content.md)
+  - [2.](/en/BI/content.md)
 
 
 - [<i class="fa-solid fa-address-book"></i> Dev. log - User center ⭐](/en/UserCenter/README.md)
