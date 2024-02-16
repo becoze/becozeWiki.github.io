@@ -6,13 +6,13 @@
 ## System Design
 ![System structure](image/structure.png)
 
-## Project introduction 
+## Project introduction - Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/waCRV8ZARv4" frameborder="0" allowfullscreen></iframe>
 
 > 5 Minutes project showcase video
 
----
+## Project introduction - Image
 
 ![Login](image/login.png)
 
