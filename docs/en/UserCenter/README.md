@@ -1,9 +1,9 @@
 # UserCenter
 ## GitHub Repo
 
-<i class="fa-brands fa-github"></i> [User Center - Back end](https://github.com/becoze/usercenter-back)
+<i class="fa-brands fa-github"></i> [User Center - Back end <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://github.com/becoze/usercenter-back)
 
-<i class="fa-brands fa-github"></i> [User Center - Front end](https://github.com/becoze/usercenter-front)
+<i class="fa-brands fa-github"></i> [User Center - Front end <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://github.com/becoze/usercenter-front)
 
 ## Tech Stack
 ### Backend:
