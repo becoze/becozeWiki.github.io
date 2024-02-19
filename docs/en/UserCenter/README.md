@@ -1,7 +1,32 @@
 # UserCenter
+## GitHub Repo
 
-> Enlarge image if needed 
-![Guide](image/guide.png)
+<i class="fa-brands fa-github"></i> [User Center - Back end](https://github.com/becoze/usercenter-back)
+
+<i class="fa-brands fa-github"></i> [User Center - Front end](https://github.com/becoze/usercenter-front)
+
+## Tech Stack
+### Backend:
+- Java
+- Spring (IoC and DI)
+- SpringMVC (web framework)
+- Spring Boot (easier set up and deploy)
+- Mybatis & Mybatis-plus (ORM: map OOP models to relational database models)
+- log4j (log)
+- MySQL (database)
+
+### Frontend:
+- React
+- HTML + CSS + JS
+- Umi (React enhancement)
+- Ant Design Pro (elements and components)
+
+### Development Tools:
+- IntelliJ IDEA & WebStrom (IDE)
+- Maven (dependency management tool )
+- Mysql
+- jdk1.8
+- Typora (development log writing)
 
 ## System Design
 ![System structure](image/structure.png)
@@ -31,4 +56,7 @@
 ![Modify PW](image/user_profile_password.png)
 
 ## Project Dev.
+> Enlarge image if needed
+![Guide](image/guide.png)
+
 ![User Center](image/User-Center.png)
