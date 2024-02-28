@@ -55,7 +55,7 @@
 
 ![Modify PW](image/user_profile_password.png)
 
-## Project Dev.
+## Project Log
 > Enlarge image if needed
 ![Guide](image/guide.png)
 
