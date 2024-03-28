@@ -5,7 +5,7 @@
 <i class="fa-brands fa-github"></i> [Business Intelligent Platform - Front end <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://github.com/becoze/bi-front)
 
 ## Tech Stack
-### Backend:g
+### Backend:
 
 ### Frontend:
 
