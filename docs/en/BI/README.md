@@ -17,16 +17,30 @@
 
 ## Tech Stack
 ### Backend:
+- Java Spring Boot
+- MySQL Database
+- Redis: Redisson for rate limiting
+- JDK: thread pool (rate limited & access control) and asynchronization
+- MyBatis Plus: data access
+- MyBatisX (IDEA plugin): auto-generate code based on database tables
+- RabbitMQ: message queue
+- ChatGPT AI SDK: AI power
+- Swagger + Knife4: project documentation
+- Easy Excel: spreadsheet data processing
+- JUnit5: unit test
+- Other: Hutool utility library, Apache Common Utils, Gson parsing library, Lombok annotations
 
 ### Frontend:
+- React 18
+- Ant Design Pro v5 scaffold & library
+- OpenAPI: Automatically generate api code based on Swagger API document
+- EChart: chart generation
 
 ### Development Tools:
 
 ## System Design
 
 ![ThreadPool Mechanism](image/ThreadPoolMechanism.png)
-
-## Project introduction
 
 ## Project Log
 
