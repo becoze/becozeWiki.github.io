@@ -39,7 +39,9 @@
 ### Development Tools:
 
 ## System Design
+![](image/Business_Intelligent.png)
 
+Thread-Pool Mechanism
 ![ThreadPool Mechanism](image/ThreadPoolMechanism.png)
 
 ## Project Log
