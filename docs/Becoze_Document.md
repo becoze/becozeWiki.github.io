@@ -9,6 +9,9 @@
 - [Java](/en/Java/README.md)
 - [LeetCode - algorithm](/en/LeetCode/README)
 
+> For Phone user: you can open sidebar for batter navigation
+> ![](Phone_open_sidebar_guide.png)
+
 
 ### [🔥 Project Dev. log - Intelligent Analysis Assistant](/en/BI/README.md)
 Short for "I-Analysis", it enables non-data analysis users can 
