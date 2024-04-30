@@ -4,7 +4,7 @@
 
 
 ## Site Content
-- [🔥 Project Dev. log - Intelligent Analysis Assistant](/en/BI/README.md)
+- [🔥 Project Dev. log - Intelligent Analysis Assistant](/en/BI/home.md)
 - [⭐ Project Dev. log - User center](/en/UserCenter/README.md)
 - [Java](/en/Java/README.md)
 - [LeetCode - algorithm](/en/LeetCode/README)

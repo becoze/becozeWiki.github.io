@@ -68,7 +68,7 @@
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
 
-- [🔥 Dev. log - Business Intelligent](/en/BI/README.md)
+- [🔥 Dev. log - Business Intelligent](/en/BI/home.md)
   - [1.](/en/BI/content.md)
   - [2.](/en/BI/content.md)
 
