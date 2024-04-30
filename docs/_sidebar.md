@@ -1,6 +1,6 @@
-- [<i class="fa-solid fa-house"></i> **Home**](/)
+- [<i class="fa-solid fa-house"></i> **Becoze's Document**](/)
 
-- [<i class="fa-brands fa-java"></i> Java](/en/Java/README.md)
+- [☕ Java](/en/Java/README.md)
   - Java Basic
     - Computer Basic
       - [<i class="fa-solid fa-gears"></i> Escape Characters](/en/Java/1.Java-Basic/1.Computer-Basic/1.Escape-Characters.md)
@@ -68,16 +68,16 @@
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
 
-- [<i class="fa-solid fa-cubes"></i> Dev. log - BI ⭐](/en/BI/README.md)
+- [🔥 Dev. log - Business Intelligent](/en/BI/README.md)
   - [1.](/en/BI/content.md)
   - [2.](/en/BI/content.md)
 
 
-- [<i class="fa-solid fa-address-book"></i> Dev. log - User center ⭐](/en/UserCenter/README.md)
+- [⭐ Dev. log - User center](/en/UserCenter/README.md)
   - [content](/en/UserCenter/content.md)
   - [content](/en/UserCenter/content.md)
 
-- <i class="fa-solid fa-code"></i> LeetCode - algorithm
+- 🚀 LeetCode - algorithm
   - [README](/en/LeetCode/README.md)
   - [1. Tow Sum](/en/LeetCode/1.Tow-Sum.md)
   - [191. Number of 1 Bits](/en/LeetCode/191.Number-of-1-Bits.md)

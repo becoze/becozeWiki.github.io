@@ -6,24 +6,22 @@
 ## Site Content
 - [🔥 Project Dev. log - Business Intelligent](/en/BI/README.md)
 - [⭐ Project Dev. log - User center](/en/UserCenter/README.md)
-- [<i class="fa-brands fa-java"></i> Java](/en/Java/README.md)
-- [<i class="fa-solid fa-code"></i> LeetCode - algorithm](/en/LeetCode/README)
+- [Java](/en/Java/README.md)
+- [LeetCode - algorithm](/en/LeetCode/README)
 
 
-## [🔥 Project Dev. log - Business Intelligent](/en/BI/README.md)
-<i class="fa-solid fa-terminal"></i>
-<i class="fa-solid fa-cubes"></i>
+### [🔥 Project Dev. log - Business Intelligent](/en/BI/README.md)
 
 
-## [⭐ Project Dev. log - User center](/en/UserCenter/README.md)
-<i class="fa-solid fa-pen"></i> Study Note
-<i class="fa-solid fa-address-book"></i>
 
-## [<i class="fa-brands fa-java"></i> Java](/en/Java/README.md)
+### [⭐ Project Dev. log - User center](/en/UserCenter/README.md)
 
-## [<i class="fa-solid fa-code"></i> LeetCode - algorithm](/en/LeetCode/README)
 
-## <i class="fa-solid fa-user-check"></i> About Me
+### [☕️ Java](/en/Java/README.md)
+
+### [🚀 LeetCode - algorithm](/en/LeetCode/README)
+
+###  About Me
 
 Author: **Liyuan Liang**  (**Nick**)
 
