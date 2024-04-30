@@ -29,15 +29,17 @@ This documentation included everything from Environment Configuration => App Des
 [see more ->](/en/UserCenter/README.md)
 
 ### [☕️ Java](/en/Java/README.md)
-This is a organized Java knowledge sharing to help me and reader quick learning or 
+This is an organized Java knowledge sharing to help me and reader quick learning or 
 revising and consolidating key Java concepts.
 
 [see more ->](/en/Java/README.md)
 
 
 ### [🚀 LeetCode - algorithm](/en/LeetCode/README)
+Collection of original Leetcode algorithms explanation. Served as a Leetcode question Dictionary.
 
 [see more ->](/en/LeetCode/README)
+
 
 ###  About Me
 
