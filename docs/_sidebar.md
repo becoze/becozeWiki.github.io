@@ -69,13 +69,13 @@
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
 
 - [🔥 Dev. log - Business Intelligent](/en/BI/home.md)
-  - [1.](/en/BI/content.md)
-  - [2.](/en/BI/content.md)
+  - [1. Frontend & Backend Init](/en/BI/1.Frontend_Backend_Init_and_Integration.md)
+  - [2. User Login & Logout](/en/BI/2.User_Login_Logout)
+  - [coming up soon](/en/BI/)
 
 
 - [⭐ Dev. log - User center](/en/UserCenter/README.md)
-  - [content](/en/UserCenter/content.md)
-  - [content](/en/UserCenter/content.md)
+  - [coming up soon](/en/UserCenter/content.md)
 
 - 🚀 LeetCode - algorithm
   - [README](/en/LeetCode/README.md)
