@@ -70,7 +70,10 @@
 
 - [🔥 Dev. log - Business Intelligent](/en/BI/home.md)
   - [1. Frontend & Backend Init](/en/BI/1.Frontend_Backend_Init_and_Integration.md)
-  - [2. User Login & Logout](/en/BI/2.User_Login_Logout)
+  - [3. AI Integration & Content Display](/en/BI/3.AI_Backend_Integration_and_Frontend_Display.md)
+  - [4. Security and RedissonLimit](/en/BI/4.Image_Management&File_Auth_and_redisson_Limit.md)
+  - [5. Thread Pool & System Async](/en/BI/5.Thread_pool_and_Sys_Async.md)
+  - [6. RabbitMQ & Message Queue](/en/BI/6.Message_Queue_&_RabbitMQ.md)
   - [coming up soon](/en/BI/)
 
 
