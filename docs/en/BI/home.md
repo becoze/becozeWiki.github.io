@@ -1,4 +1,20 @@
 # Intelligent Analysis Assistant
+## OverView
+### Synchronous generation - user wait until ai finish generating (right hand side)
+![bi_showcase_Sync.png](image/bi_showcase_Sync.png)
+
+### Asynchronous generation - user can do anything while ai generation running at the background
+![bi_showcase_Async.png](image/bi_showcase_Async.png)
+
+### Chart (AI result) management
+![bi_showcase_mychart.png](image/bi_showcase_mychart.png)
+
+### User account login
+![bi_showcase_Login.png](image/bi_showcase_Login.png)
+
+### System Design
+![bi_showcase_sysDesign.png](image/bI_System_Design.png)
+
 ## About
 
 The "Analysis Assistant BI" enables users with limited data analysis skills to swiftly analyze data by entering their objectives, thus saving costs on analysis and chart design.
@@ -105,22 +121,8 @@ Unlike traditional BI tools, users only need to input the raw dataset and analys
     3. and Other for example: `application:`, `rabbitmq:` etc.
 4. Once the modifications are complete, run the project by executing the `MainApplication` program.
 
-## OverView
-System Design
-![bi_showcase_sysDesign.png](doc%2Fbi_showcase_sysDesign.png)
-
-Synchronous generation - user wait until ai finish generating (right hand side)
-![bi_showcase_Sync.png](doc%2Fbi_showcase_Sync.png)
-
-Asynchronous generation - user can do anything while ai generation running at the background
-![bi_showcase_Async.png](doc%2Fbi_showcase_Async.png)
-
-Chart (AI result) management
-![bi_showcase_mychart.png](doc%2Fbi_showcase_mychart.png)
-
-User account login
-![bi_showcase_Login.png](doc%2Fbi_showcase_Login.png)
-
+## Table of content 
+![toc](image/Business_Intelligent.png)
 
 > Enlarge image if needed
 ![Guide](image/guide.png)
