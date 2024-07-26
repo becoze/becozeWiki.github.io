@@ -13,8 +13,8 @@
 ![bi_showcase_Login.png](image/bi_showcase_Login.png)
 
 ### System Design
+![System Design](image/bi_showcase_design.png)
 
-![bi_showcase_sysDesign.png](image/bi_showcase_sysDesign.png)
 
 ## About
 
