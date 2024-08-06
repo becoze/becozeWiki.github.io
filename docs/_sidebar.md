@@ -68,7 +68,9 @@
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
       - [sample](/en/Java/1.Java-Basic/7.OOP-Intermediate/9.md)
 
-- [🔥 Dev. log - Business Intelligent](/en/BI/home.md)
+- [🔥 REA Prototype 📌](/en/REA/README.md)
+
+- [⭐ Dev. log - Business Intelligent](/en/BI/home.md)
   - [1. Frontend & Backend Init](/en/BI/1.Frontend_Backend_Init_and_Integration.md)
   - [3. AI Integration & Content Display](/en/BI/3.AI_Backend_Integration_and_Frontend_Display.md)
   - [4. Security and RedissonLimit](/en/BI/4.Image_Management&File_Auth_and_redisson_Limit.md)
@@ -77,7 +79,7 @@
   - [coming up soon](/en/BI/)
 
 
-- [⭐ Dev. log - User center](/en/UserCenter/README.md)
+- [🐳 Dev. log - User center](/en/UserCenter/README.md)
   - [coming up soon](/en/UserCenter/content.md)
 
 - 🚀 LeetCode - algorithm
